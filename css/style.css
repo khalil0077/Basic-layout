@@ -1,0 +1,139 @@
+body{
+	font-family: 'Courier New', Courier, monospace;
+	background-color: #686460;
+	width: 1200px;
+}
+.parent{
+	width: 80%;
+	margin-left: 6%;
+}
+.heahing{
+	color: #e6d4d4;
+	font-size: 30px;
+	margin: 0;
+	text-align: center;
+}
+.menu-bar {
+    background-color: #fff;
+	display: flex;
+	margin-bottom: 10px;
+	padding-left: 50px;
+}
+}
+
+.menu-bar ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 20px;
+    text-transform: capitalize;
+	text-decoration: none;
+}
+.home-image {
+    overflow: hidden;
+    border: 3px solid #fff;
+    margin-bottom: 15px;
+}
+
+.home-image img {
+    width: 100%;
+}
+.home-image {
+    overflow: hidden;
+    border: 3px solid #fff;
+    margin-bottom: 15px;
+}
+
+.home-image img {
+    width: 100%;
+}
+
+.image-box {
+    width: 217px;
+    height: 300px;
+    border: 3px solid #fff;
+    background: #fff;
+    display: inline-block;
+}
+
+.image-box img {
+    display: block;
+    width: 100%;
+    height: 50%;
+}
+
+.image-box p {
+    font-size: 11px;
+    text-indent: 50px;
+    display: block;
+    text-align: justify;
+}
+
+.text-image {
+    display: flex;
+    margin: 10px 0;
+    border: 3px solid #fff;
+    background: #fff;
+}
+.home-image {
+    overflow: hidden;
+    border: 3px solid #fff;
+    margin-bottom: 15px;
+}
+
+.home-image img {
+    width: 100%;
+}
+
+.image-box {
+    width: 217px;
+    height: 300px;
+    border: 7.5px solid #fff;
+    background: #fff;
+    display: inline-block;
+}
+
+.image-box img {
+    display: block;
+    width: 100%;
+    height: 50%;
+}
+
+.image-box p {
+    font-size: 11px;
+    text-indent: 50px;
+    display: block;
+    text-align: justify;
+}
+
+.text-image {
+    display: flex;
+    margin: 10px 0;
+    border: 3px solid #fff;
+    background: #fff;
+}
+
+.image {
+    width: 30%;
+}
+
+.image img {
+    width: 120px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.text {
+    width: 70%;
+    padding-right: 20px;
+}
+
+.text h1 {
+    font-size: 20px;
+    margin-top: 0px;
+}
+
+.text p {
+    font-size: 14px;
+    text-indent: 50px;
+    text-align: justify;
+}
